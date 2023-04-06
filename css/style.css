@@ -37,7 +37,6 @@ li {
     font-size: 1.1rem;
     font-family: 'Inter', sans-serif;
     color: rgb(247, 241, 241)
-    
 }
 
 .icon {
@@ -47,7 +46,7 @@ li {
 
 .a_tt {
     position: relative;
-    
+
     font-weight: 700;
     font-size: 32px;
     line-height: 39px;
@@ -105,6 +104,7 @@ span {
     background-repeat: no-repeat;
     height: 720px;
 }
+
 .header_text {
     width: 39%;
     position: absolute;
@@ -159,14 +159,16 @@ h1 {
 }
 
 .div_1_img {
-    width: 90%;
-    margin: 0 auto;
+    width: 50%;
+    height: 206px;
+    margin: 160px auto;
     display: flex;
     justify-content: space-between;
 }
 
 .img1 {
-    margin-left: 400px;
+    width: 190px;
+    height: 160px;
 }
 
 .img4 {
@@ -248,7 +250,7 @@ figcaption {
     width: 20%;
 }
 
-.section3_imgs:hover{
+.section3_imgs:hover {
     box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
 
 
@@ -283,7 +285,7 @@ figcaption {
     width: 25%;
     display: flex;
     text-align: center;
-    
+
     margin: 0 auto;
     padding: 10px 20px 10px 20px;
     border-radius: 18px
@@ -323,6 +325,7 @@ figcaption {
     text-align: center;
     margin-top: 160px;
 }
+
 .article_1 {
     /* border: 5px solid red; */
     width: 75%;
@@ -430,6 +433,15 @@ footer {
     background-color: rgba(64, 33, 1, 1);
 }
 
+.footer_navigation {
+    width: 62%;
+    height: 70%;
+    padding-top: 32px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
 .footer_1 {
     padding-top: 30px;
     padding-left: 360px;
@@ -451,7 +463,7 @@ footer {
 }
 
 .footer_2 {
-    width:20%;
+    width: 20%;
     /* border: 2px solid red; */
 
 }
@@ -653,6 +665,7 @@ footer {
 .artwork_figure:hover {
     box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
+
 .artwork_figure {
     width: 22%;
 }
@@ -660,12 +673,14 @@ footer {
 .artwork_figcaption {
     width: 100%;
 }
+
 .artwork_figure_div1 {
     margin: 94px 0px 80px 0px;
     width: 100%;
     display: flex;
     justify-content: space-between;
 }
+
 .artwork_section1_p {
     margin: 24px 0px 28px 0px;
     font-weight: 400;
@@ -879,8 +894,9 @@ header {
 }
 
 .h1_article {
-   color: rgb(160, 80, 27);
+    color: rgb(160, 80, 27);
 }
+
 .article_1_homediv {
     margin-top: 45px;
     width: 100%;
