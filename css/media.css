@@ -1,16 +1,16 @@
 @media (max-width: 1600px){
-    .subscribe_form{
+    .sec4_form{
         padding-left: 560px;
     }
     }
     @media (max-width: 1500px){
-        .gallery_img1{
+        .section2_img{
             width: 80%;
         }
-        .gallery_img2{
+        .section2_img2{
             width: 80%;
         }
-        .fourth{
+        .none1{
             display: none;
         }
         }
@@ -20,50 +20,50 @@
             margin-left: 6%;
             }
             /* artworks */
-            .first_div_last_figure{
+            .last1{
                 display: none;
             }
-            .second_div_last_figure{
+            .last2{
                 display: none;
             }
         }
         @media (max-width: 1280px){
-            .main_logo{
+            .header_logo{
     
                 margin-left: 10.8%;
             }
-            .last_article_button{
+            .help_center2{
                 margin-left: 30%;
             }
         
-            .subscribe_form{
+            .sec4_form{
                 padding-left: 400px;
             }
-            .gallery_img1_smallimage{
+            .dishes{
                 display: none;
             }
-            .gallery_img1{
+            .section2_img{
                 align-content: center;
                 justify-content: space-evenly;
             }
-            .gallery_img2{
+            .section2_img2{
                 justify-content: space-evenly;
             }
-            .gallery_img2_thirdimage{
+            .bottles{
                 display: none;
             }
-            .main_navigation_div{
+            .footer_navigation{
                 width: 95%;
             }
-            .last_figure{
+            .imgg{
                 display: none;
             }
         }
         @media (max-width: 1200px){
-            .artworks_article{
+            .artwork_figure_div{
                 width: 90%;
             }
-            .contact_form{
+            .contact_window{
                 width: 40%;
             }
         }
@@ -72,7 +72,7 @@
                 left: 50%;
                 transform: translate(-50%, 50%);
             }
-            .latest_products{
+            .section3{
                 width: 100%;
             }
         }
@@ -83,7 +83,7 @@
             .third{
                 display: none;
             }
-            .artworks_article{
+            .artwork_section1{
                 width: 75%;
             }
         }
