@@ -1,4 +1,4 @@
-@media (max-width: 1600px){
+ @media (max-width: 1600px){
     .sec4_form{
         padding-left: 560px;
     }
@@ -121,8 +121,8 @@
                 gap: 0;
                 justify-content: space-around;
                 align-items: center;
-            }
-            /* .appear_diss{
+            } 
+            .appear_diss{
                 left: 0;
             }
             .main_logo{
@@ -131,13 +131,13 @@
             .sign_in_logo{
                 margin-left: 0;
                 margin-right: 30px;
-            } */
-            header{
+            } 
+             header{
                 display: flex;
                 justify-content: space-between;
-            }
+            } 
     
-        }
+         }
         @media (max-width: 760px){
             .artwork_section1{
                 width: 90%;
@@ -153,7 +153,7 @@
                 width: 80%;
             }
         }
-        @media (max-width: 725px){
+        @media (max-width: 725px) {
             .frames{
                 display: none;
             }
@@ -231,8 +231,10 @@
             }
             .card{
                 width: 100%;
-            }
-            /* footer */
+            } 
+        
+            
+        
             footer{
                 height: 500px;
             }
@@ -269,7 +271,7 @@
             .figure_img{
                 width: 100%;
             }
-            .lp_image{
+            .ii_image{
                 width: 100%;
             }
         }
@@ -277,7 +279,7 @@
             .sec4_form{
                 padding-left: 0;
                 width: 300px;
-            }
+            } 
             
             .help_center_p2{
                 margin-left: 17%;
