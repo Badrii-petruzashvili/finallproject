@@ -97,14 +97,21 @@ span {
     position: relative;
 }
 
+.header_photo {
+    width: 100%;
+    background-image: url("../photos/Rectangle\ 106.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 720px;
+}
 .header_text {
-    width: 38%;
-    color: #FFFFFF;
-    text-align: center;
+    width: 39%;
     position: absolute;
-    top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, 115%);
+    text-align: center;
+    color: #fff;
 }
 
 h1 {
@@ -122,15 +129,15 @@ h1 {
 }
 
 .header_button {
-    width: 40%;
-    height: 55px;
-    border: 2px solid #D5906E;
+    height: 60px;
+    width: 45%;
+    color: #fff;
+    font-family: 'Inter';
+    font-size: 1rem;
+    border: 1px solid #D5906E;
     border-radius: 10px;
-    background: transparent;
-    font-weight: 400;
-    font-size: 16px;
-    font-family: 'Inter', sans-serif;
-
+    background: none;
+    cursor: pointer;
 
 }
 
