@@ -276,7 +276,7 @@ figcaption {
     width: 25%;
     display: flex;
     text-align: center;
-    align-items: center;
+    
     margin: 0 auto;
     padding: 10px 20px 10px 20px;
     border-radius: 18px
@@ -308,14 +308,14 @@ figcaption {
 
 
 .sec4_h1 {
-    padding: 160px 717px 56px 730px;
-    color: white;
+    padding-top: 160px;
+    font-family: 'Inter';
     font-weight: 700;
-    font-family: 'Inter', sans-serif;
-    font-size: 40px;
-    line-height: 48px;
+    font-size: 2.5rem;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 160px;
 }
-
 .article_1 {
     /* border: 5px solid red; */
     width: 75%;
@@ -653,7 +653,12 @@ footer {
 .artwork_figcaption {
     width: 100%;
 }
-
+.artwork_figure_div1 {
+    margin: 94px 0px 80px 0px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
 .artwork_section1_p {
     margin: 24px 0px 28px 0px;
     font-weight: 400;
@@ -673,7 +678,7 @@ footer {
     font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 1.3px;
+    font-size: 1.3rem;
     line-height: 29px;
     color: #402101;
 }
