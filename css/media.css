@@ -88,22 +88,22 @@
             }
         }
         @media (max-width: 900px){
-            .article_cards{
+            .div_1_img{
                 width: 80%;
             }
-            .latest_products{
+            .section3{
                 width: 100%;
             }
-            .subscribe_form{
+            .sec4_form{
                 padding-left: 260px
             }
-            .exp_card_h{
+            .articlecard_h1{
                 font-size: 1rem;
             }
-            .exp_card_text{
+            .article_p{
                 font-size: 0.8rem;
             }
-            .last_question{
+            .help_center_p{
                 padding-top: 80px;
             }
             /* burger*//* burger*//* burger*/
@@ -122,7 +122,7 @@
                 justify-content: space-around;
                 align-items: center;
             }
-            .appear_diss{
+            /* .appear_diss{
                 left: 0;
             }
             .main_logo{
@@ -131,7 +131,7 @@
             .sign_in_logo{
                 margin-left: 0;
                 margin-right: 30px;
-            }
+            } */
             header{
                 display: flex;
                 justify-content: space-between;
@@ -139,20 +139,17 @@
     
         }
         @media (max-width: 760px){
-            .artworks_search{
+            .artwork_section1{
                 width: 90%;
             }
-            .artworks_article{
+            .div_1_img{
                 width: 90%;
             }
-            .artworks_page_numbers{
-                width: 40%;
-            }
-            .contact_form{
+            .contact_window{
                 margin: 0 auto;
                 width: 65%;
             }
-            .contact_map{
+            .contact_article_1{
                 width: 80%;
             }
         }
@@ -160,7 +157,7 @@
             .frames{
                 display: none;
             }
-            .latest_products_images{
+            .section3_img{
                 flex-direction: column;
                 gap: 20px;
             }
@@ -170,148 +167,132 @@
                 width: 80%;
                 margin: auto;    
             }
-            .first_banner_text{
+            .header_text{
                 width: 90%;
                 padding-top: 50px;
             }
-            .last_figure{
+            .last_fg{
                 display: block;
             }
-            .article_cards{
+            .div_1_img{
                 height: auto;
                 margin: 64px auto;
                 flex-wrap: wrap;
             }
-            .gallery{
+            .section2{
                 height: 1150px;
             }
-            .gallery_h{
+            .section2_title{
                 padding: 32px 0 24px 0;
             }
-            .gallery_img2{
+            .section2_img2{
                 height: 608px;
                 flex-direction: column;
                 width: 95.5%;
                 gap: 20px;
             }
-            .image_resize{
+            .res{
                 height: 322px;
                 margin-top: 0;
             }
-            .gallery_img1_bigimage{
+            .abow_photo{
                 margin-bottom: 20px;
                 width: 100%;
             }
-            .gallery_img1{
+            .section2_img{
                 width: 95.5%;
             }
     
-            .section2_homepage{
+            .section4{
                 height: 240px;
             }
-            .banner2_h2{
+            .sec4_h1{
                 padding-top: 60px;
             }
-            .subscribe_form{
+            .sec4_form{
                 width: 500px;
                 padding-left: 0;
                 margin: auto;
                 padding-left: 100px;
                 margin-top: 24px;
             }
-            .last_article_h{
+            .article_h1{
                 margin-top: 64px;
             }
     
-            .last_article{
+            .section4{
                 width: 95%;
             }
-            .explanation{
+            .cards{
                 flex-direction: column;
                 height: auto;
                 gap: 20px;
                 margin-bottom: 0;
             }
-            .exp_card{
+            .card{
                 width: 100%;
             }
             /* footer */
             footer{
                 height: 500px;
             }
-            .main_navigation_div{
+            .footer_navigation{
                 flex-direction: column;
             }
-            .help_plus_icons{
+            .icons{
                 margin: 0 auto 44px auto;
                 text-align: center;
             }
             .footer_logo{
                 margin: 0 auto 64px auto;
             }
-            .footer_contact{
+            .p_m_l{
                 margin: auto;
             }
         }
         @media (max-width: 665px){
-            .figure_div_second{
+            .artwork_figure_div1{
                 display: none;
             }
             .third{
                 display: block;
             }
-            .figure_div_first{
+            .artwork_figure_div{
                 margin: auto;
                 margin-top: 40px;
                 flex-direction: column;
                 gap: 20px;
             }
-            .artworks_figcaption{
+            .artwork_figcaption{
                 text-align: center;
             }
             .figure_img{
                 width: 100%;
-            }
-            .artworks_page_numbers{
-                width: 60%;
             }
             .lp_image{
                 width: 100%;
             }
         }
             @media (max-width: 480px){
-            .subscribe_form{
+            .sec4_form{
                 padding-left: 0;
                 width: 300px;
             }
-            .view_more{
-                display: block;
-                width: 144px;
-                height: 48px;
-                font-family: 'Inter';
-                font-weight: 400;
-                font-size: 1rem;
-                color: #FFFFFF;
-                background-color: #B53B1B;
-                border-radius: 10px;
-                border: none;
-                margin: auto;
-                margin-top: 32px;
-            }
-            .last_article_button{
+            
+            .help_center_p2{
                 margin-left: 17%;
             }
-            .contact_form{
+            .contact_window{
                 width: 90%;
             }
-            .main_div{
+            .div_article_1{
                 display: flex;
                 flex-direction: column;
             }
             .iframe{
                 width: 100%;
             }
-            .contact_map{
+            .contact_article_1{
                 height: auto;
             }
         }
